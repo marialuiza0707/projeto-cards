@@ -23,7 +23,37 @@ criaCartao(
 )
 
 criaCartao(
-    'Gloss'
+    'Gloss',
     'De onde surgiu o gloss?',
     'Max Factor em 1930 que queria criar um produto labial para dar brilho aos lábios dos atores em filmes.'
 )
+
+
+
+criaCartao(
+    'esporte',
+    'de onde surgiu o esporte?',
+    ' O esporte surgiu da necessidade que o ser humano possuí nos primórdios: correr, pescar nadar e saltar.'
+)
+
+criaCartao(
+    'Academia',
+    'Qual a necesidade de praticar academia?',
+    'É fundamental para a prevenção de doenças crônicas não transmissíveis.'
+)
+
+criaCartao(
+    '',
+    '?',
+    ''
+)
+
+criaCartao(
+    'dinheiro',
+    'como é feito o dinheiro?',
+    'É constituido por três camadas sobrepostas. A lâmina do meio é feita de 100% algodão, como algumas roupas que usamos no dia a dia. Já as camadas externas são feitas, normalmente, de pasta de madeira.'
+)
+
+
+
+
